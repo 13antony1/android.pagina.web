@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en" >
 
@@ -48,3 +46,4 @@ var hcaptcha=function(){"use strict";function e(e){var t=this.constructor;return
 </body>
 
 </html>
+ 
